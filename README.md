@@ -71,7 +71,7 @@ Backend and CLI developer working primarily in Rust and Go. I build web services
 <!-- Row 1 -->
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
 **🦀 kbauto**
 
@@ -80,7 +80,7 @@ Knowledge Base automation CLI — guided TUI scaffolding for documentation.
 `Rust` `clap` `crossterm` `ollama`
 
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
 **📊 financials**
 
@@ -89,7 +89,7 @@ Personal finance tracker built with axum + htmx + maud + sqlx.
 `Rust` `axum` `htmx` `SQLite`
 
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
 **🦀 rust-web**
 
@@ -100,7 +100,7 @@ Rust web app template — axum, htmx, maud, sqlx with auth and error handling.
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
 **🔧 json-ndjson**
 
@@ -109,13 +109,18 @@ Utility to convert between JSON and NDJSON formats.
 `Go` `JSON` `CLI`
 
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
 **📖 pageturner**
 
 Self-hosted book tracking app with Go API, SvelteKit, and OpenLibrary integration.
 
 `Go` `SvelteKit` `PostgreSQL` `Docker`
+
+</td>
+<td width="33%" align="center">
+
+&nbsp;
 
 </td>
 </tr>
