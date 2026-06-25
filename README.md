@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm jlcoulter 👋
 
-<!--
-**jlcoulter/jlcoulter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💫 About Me
+- 🔭 I’m currently working on **[Project Name]**
+- 🌱 I’m currently learning **[Technology/Skill]**
+- 🤝 I’m looking to collaborate on **[Open Source / Project Type]**
+- 💬 Ask me about **[Topics you know well]**
+- 📫 How to reach me **[Email / Social Link]**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <!-- Languages -->
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="TypeScript" />
+  
+  <!-- Frameworks & Tools -->
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="NodeJS" />
+  <img src="https://shields.io" alt="Git" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
+</p>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://vercel.app" alt="Activity Graph" width="100%" />
+</p>
+
+---
+
+⚡ Powered by your profile repository. 
+👁️ Total Profile Views: ![Views](https://komarev.com)
