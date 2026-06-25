@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7768E&center=true&vCenter=true&random=false&width=600&height=70&lines=Hey+there+%F0%9F%91%8B+I'm+JC;Rust+%E2%86%92+Go+%E2%86%92+Nix;Homelab+builder;Client+experience+strategist" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7768E&center=true&vCenter=true&random=false&width=500&height=70&lines=Rust+%7C+Go+%7C+Nix;Backend+%26+CLI+tools;Homelab+operator" alt="Typing SVG" /></a>
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=jlcoulter&style=flat-square&color=blue" alt="Profile Views" />
@@ -12,14 +12,12 @@
 
 ### About Me
 
-I'm a systems thinker who builds across the stack — from low-level Rust CLIs to healthcare data tooling to infrastructure automation.
+Backend and CLI developer working primarily in Rust and Go. I build web services, developer tools, and self-hosted infrastructure.
 
-- 🔭 Currently building with **Rust** — axum, htmx, maud, sqlx, and CLI tools with crossterm/clap
-- 🐹 Also fluent in **Go** — API proxies, WASM modules, CLI tools, and backend services
-- 🏠 Managing a **homelab** with NixOS, Ansible, Docker, Proxmox, and Traefik
-- 📐 Writing **client experience playbooks** for accounting firms
-- 🌱 Always learning — currently deep in Rust web stacks and Nix flakes
-- ⚡ Editor: Neovim (via nvf) / Terminal: Zellij / Shell: Zsh
+- **Rust** — axum, htmx, maud, sqlx, crossterm/clap CLI tools
+- **Go** — API services, WASM modules, CLI utilities
+- **Infrastructure** — NixOS, Ansible, Docker, Proxmox, Traefik
+- **Editor** — Neovim (nvf) / Zellij / Zsh
 
 ---
 
