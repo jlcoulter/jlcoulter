@@ -143,7 +143,7 @@ Self-hosted book tracking app with Go API, SvelteKit, and OpenLibrary integratio
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=jlcoulter&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlcoulter&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlcoulter&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5&v=2" alt="Top Languages" width="48%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jlcoulter&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=BB9AF7&curr=9ECE6A&sideLabels=C0CAF5&dates=565F89" alt="GitHub Streak" width="70%" />
 
