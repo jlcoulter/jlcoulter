@@ -82,17 +82,6 @@ Knowledge Base automation CLI — guided TUI scaffolding for documentation.
 </td>
 <td width="50%" align="center">
 
-**🌿 gitbranches**
-
-Git branch visualization CLI with a crossterm TUI and ASCII graph rendering.
-
-`Rust` `crossterm` `clap` `chrono`
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
 **📊 financials**
 
 Personal finance tracker built with axum + htmx + maud + sqlx.
