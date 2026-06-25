@@ -122,6 +122,15 @@ Utility to convert between JSON and NDJSON formats.
 `Go` `JSON` `CLI`
 
 </td>
+<td width="50%" align="center">
+
+**📖 pageturner**
+
+Self-hosted book tracking app with Go API, SvelteKit, and OpenLibrary integration.
+
+`Go` `SvelteKit` `PostgreSQL` `Docker`
+
+</td>
 </tr>
 </table>
 
