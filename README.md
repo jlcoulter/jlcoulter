@@ -16,32 +16,31 @@ Backend and CLI developer. Rust for data-heavy work — parsers, formatters, TUI
 <tr>
 <td width="50%">
 
-**[kbauto](https://github.com/jlcoulter/kbauto)**
-Knowledge Base automation CLI — guided TUI scaffolding for Docusaurus documentation.
-`Rust` `clap` `crossterm`
+**[kbauto](https://github.com/jlcoulter/kbauto)** — 10k+ lines of Rust across 7 crates
+
+Knowledge Base playbook automation. Generate, rebase, and diff client KBs from versioned Docusaurus templates. Guided TUI scaffolding with crossterm + clap.
+
+`Rust` `clap` `crossterm` `ollama`
 
 </td>
 <td width="50%">
 
-**[pageturner](https://github.com/jlcoulter/pageturner)**
-Self-hosted book tracker with full-text search over 60M+ works, Go + SvelteKit + PostgreSQL.
-`Go` `SvelteKit` `PostgreSQL` `Docker`
+**[pageturner](https://github.com/jlcoulter/pageturner)** — Full-stack book tracker
+
+Self-hosted with full-text search over 60M+ OpenLibrary works (prefix tsquery matching). Go chi + sqlc backend, SvelteKit frontend, PostgreSQL, multi-arch Docker.
+
+`Go` `chi` `sqlc` `SvelteKit` `PostgreSQL`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[financials](https://github.com/jlcoulter/financials)**
-Personal finance tracker — axum + htmx + maud + sqlx with Basiq integration.
-`Rust` `axum` `htmx` `SQLite`
+**[financials](https://github.com/jlcoulter/financials)** — Personal finance tracker
 
-</td>
-<td width="50%">
+Axum + htmx + maud + sqlx with session auth (SignedCookieJar), SQLite, and Basiq API integration. Server-rendered, no JS framework.
 
-**[flake](https://github.com/jlcoulter/flake)**
-NixOS + nix-darwin + Home Manager across 3 hosts, shared modules, Everforest theming.
-`Nix` `NixOS` `Home Manager`
+`Rust` `axum` `htmx` `maud` `SQLite`
 
 </td>
 </tr>
@@ -51,7 +50,7 @@ NixOS + nix-darwin + Home Manager across 3 hosts, shared modules, Everforest the
 
 ### Templates
 
-Production-ready starting points for Go and Rust projects. Multi-arch Docker images (amd64 + arm64), CI with GHCR push, branch protection, MIT license.
+Production-ready starting points for Go and Rust projects. Multi-arch Docker (amd64 + arm64), GitHub Actions CI with GHCR push, branch protection, MIT license.
 
 | Go | Rust |
 |---|---|
@@ -59,6 +58,12 @@ Production-ready starting points for Go and Rust projects. Multi-arch Docker ima
 | [go-cli](https://github.com/jlcoulter/go-cli) — CLI application | [rust-tui](https://github.com/jlcoulter/rust-tui) — Terminal UI |
 | [go-daemon](https://github.com/jlcoulter/go-daemon) — Long-running service | [rust-web](https://github.com/jlcoulter/rust-web) — Web app (axum + htmx) |
 | [go-dashboard](https://github.com/jlcoulter/go-dashboard) — HTMX dashboard | [rust-lib](https://github.com/jlcoulter/rust-lib) — Publishable crate |
+
+---
+
+### NixOS
+
+[flake](https://github.com/jlcoulter/flake) — 3 hosts (desktop, ARM server, MacBook), shared modules, Everforest theming across Kitty, Waybar, GTK, and Zellij. Declarative system config with Home Manager, nvf for Neovim.
 
 ---
 
