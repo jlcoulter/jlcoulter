@@ -16,9 +16,9 @@ Backend and CLI developer. Rust for data-heavy work — parsers, formatters, TUI
 <tr>
 <td width="50%">
 
-**[kbauto](https://github.com/jlcoulter/kbauto)** — 10k+ lines of Rust across 7 crates
+**[kbauto](https://github.com/jlcoulter/kbauto)** — Knowledge Base playbook automation
 
-Knowledge Base playbook automation. Generate, rebase, and diff client KBs from versioned Docusaurus templates. Guided TUI scaffolding with crossterm + clap.
+Generate, rebase, and diff client KBs from versioned Docusaurus templates. Guided TUI scaffolding with crossterm + clap.
 
 `Rust` `clap` `crossterm` `ollama`
 
@@ -41,6 +41,15 @@ Self-hosted with full-text search over 60M+ OpenLibrary works (prefix tsquery ma
 Axum + htmx + maud + sqlx with session auth (SignedCookieJar), SQLite, and Basiq API integration. Server-rendered, no JS framework.
 
 `Rust` `axum` `htmx` `maud` `SQLite`
+
+</td>
+<td width="50%">
+
+**[json-ndjson](https://github.com/jlcoulter/json-ndjson)** — Bidirectional JSON ↔ NDJSON converter
+
+Streaming processing in three modes: directory batch, stdin/stdout pipe, and JSON compaction. O(1) memory regardless of input size. Benchmarked, tested, multi-arch Docker.
+
+`Go` `encoding/json` `bufio`
 
 </td>
 </tr>
